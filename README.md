@@ -1,2 +1,1 @@
-# Ai-Document-Assistant
-It an ai documment assistent specifically trained oon the alchimest book pdf you can add any pdf and asks questons i uploaded the alchemist pdf.
+It’s an AI document assistant specifically trained on The Alchemist book PDF. You can add any PDF and ask questions. I uploaded The Alchemist PDF.
